@@ -93,7 +93,13 @@ social_links:
   twitter: https://twitter.com/eaufavor
   github: https://github.com/eaufavor
   weibo: http://weibo.com/eaufavor/
-  rss:
+  rss: /atom.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
 widgets:
 - recent_posts
 - category
@@ -117,5 +123,5 @@ links:
   小诺: http://akem.name
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-7407448-2
 favicon:
