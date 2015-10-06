@@ -9,7 +9,7 @@ School of Computer Science
 Carnegie Mellon University
 
 ~~eaufavor [AT]  sjtu.edu.cn~~ yuchenw [AT]  cs.cmu.edu  
-GHC 7001                   (check my schedule)  
+GHC 7001                   [check my schedule](/My-schedule/index.html)  
 5000 Forbes Ave, Pittsburgh, USA, 15213
 
 ---

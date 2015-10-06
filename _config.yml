@@ -77,7 +77,8 @@ deploy:
 menu:
   Home: /
   Categories:
-  Schedule: /schedule/index.html
+  KeyboardTerm: /KeyboardTerm/index.html
+  Schedule: /My-schedule/index.html
   About: /About-me/index.html
 
 
@@ -103,7 +104,17 @@ widgets:
 
 # Links
 links:
-  CMU: http://www.cmu.edu
+  AzureAqua's: https://azureaqua.wordpress.com
+  Black Doves: http://rjjj.blogbus.com
+  Farseerfc的小窝: http://farseerfc.me
+  Hallo_UHA: http://hallouha.name
+  Hopscotch: http://augo.name
+  lazy_bone: http://kimsu.wordpress.com
+  尼布甲尼撒号: http://darthnebu.blogbus.com
+  徒然的城堡: http://blog.ramphias.net
+  看不见的城市: http://never_elf.blogbus.com
+  空气公园: http://dalang.name/blog
+  小诺: http://akem.name
 
 # Miscellaneous
 google_analytics:
