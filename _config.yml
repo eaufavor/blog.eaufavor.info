@@ -71,7 +71,15 @@ theme: hueman
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: eaufavor.info
+  user: eaufavor
+  root: ~/blog
+  port: 22
+  delete: false
+  verbose: true
+  ignore_errors: false
+
 
 # Header
 menu:
