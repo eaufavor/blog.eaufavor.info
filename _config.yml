@@ -15,7 +15,7 @@ timezone: America/New_York
 use_local_apis: true
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://eaufavor.info
+url: https://eaufavor.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,7 +72,7 @@ theme: hueman
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: rsync
-  host: eaufavor.info
+  host: eaufavor.net
   user: eaufavor
   root: ~/blog
   port: 22
@@ -98,8 +98,9 @@ scrollLoading: true
 
 # Sidebar
 social_links:
-  twitter: https://twitter.com/eaufavor
   github: https://github.com/eaufavor
+  linkedin: https://www.linkedin.com/in/yuchen-wu-6aab6b36
+  twitter: https://twitter.com/eaufavor
   weibo: http://weibo.com/eaufavor/
   rss: /atom.xml
 
